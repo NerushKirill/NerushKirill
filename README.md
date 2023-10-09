@@ -113,7 +113,7 @@
     <a href="https://codepen.io/nerushkirill/pens/public" target="blank">
         <img align="center" 
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
-        alt="https://codepen.io/nerushkirill/pens/public" height="40" width="40" />
+        alt="codepen" height="40" width="40" />
     </a>
 </p>
 
@@ -122,30 +122,30 @@
     <a href="https://rostov.hh.ru/applicant/resumes/view?resume=088cdd9aff0c77aa7d0039ed1f74556d614145">
         <img align="center"
         src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019"
-        alt="https://rostov.hh.ru/applicant/resumes/view?resume=088cdd9aff0c77aa7d0039ed1f74556d614145" height="35" width="35" />
+        alt="My resume in google hh.ru" height="35" width="35" />
     </a>
     <a href="www.linkedin.com/in/nerush-kirill">
         <img align="center"
         src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
-        alt="https://codepen.io/nerushkirill/pens/public" height="33" width="34"/>
+        alt="linkedin" height="33" width="34"/>
     </a>
    <a href="https://docs.google.com/document/d/1gGG7vf9Pd7QIbyQyobS-H6OKMuoOZIUawwDCzxfvCmQ/edit?usp=sharing" target="blank">
         <img align="center" 
         src="https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png" 
-        alt="https://docs.google.com/document/d/1gGG7vf9Pd7QIbyQyobS-H6OKMuoOZIUawwDCzxfvCmQ/edit?usp=sharing" height="35" width="35" />
+        alt="My resume in google docs" height="35" width="35" />
    </a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://rostov.hh.ru/?hhtmFrom=main">
+    <a href="https://vk.com/nerush_kirill_dev">
         <img align="center"
         src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"
-        alt="https://codepen.io/nerushkirill/pens/public" height="40" width="40"/>
+        alt="VK" height="40" width="40"/>
     </a>
     <a href="mailto:nerush.kirill@gmail.com?subject=Development&body=Write%20to%20me%20if%3A%0A-%20you%20want%20to%20learn%20programming%2C%0A-%20you%20need%20help%20with%20a%20project%2C%0A-%20you%20want%20to%20offer%20me%20a%20job.">
         <img align="center"
         src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-        alt="https://codepen.io/nerushkirill/pens/public" height="40" width="40"/>
+        alt="mailto" height="40" width="40"/>
     </a>
 </p>
