@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill Nerush</h1>
 <h3 align="center">A python developer from Russia.</h3>
 
-<h3 align="center">My main devlopment stack</h3>
+<h3 align="center">My main devlopment stack:</h3>
 <p align="center">
     <a href="https://leetcode.com/studyplan/top-interview-150/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
@@ -100,17 +100,17 @@
 
 <h3 align="center">My works can be found:</h3>
 <p align="center">
-    <a href="https://codepen.io/https://codepen.io/nerushkirill/pens/public" target="blank">
+    <a href="https://github.com/NerushKirill?tab=repositories" target="blank">
         <img align="center" 
         src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" 
-        alt="https://codepen.io/nerushkirill/pens/public" height="40" width="40" />
+        alt="github" height="40" width="40" />
     </a>
-    <a href="https://codepen.io/https://codepen.io/nerushkirill/pens/public" target="blank">
+    <a href="https://replit.com/@KirillNierush" target="blank">
         <img align="center" 
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1024px-New_Replit_Logo.svg.png" 
-        alt="https://codepen.io/nerushkirill/pens/public" height="40" width="40" />
+        alt="replit" height="40" width="40" />
     </a>
-    <a href="https://codepen.io/https://codepen.io/nerushkirill/pens/public" target="blank">
+    <a href="https://codepen.io/nerushkirill/pens/public" target="blank">
         <img align="center" 
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
         alt="https://codepen.io/nerushkirill/pens/public" height="40" width="40" />
