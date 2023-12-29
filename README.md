@@ -34,9 +34,32 @@
         <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" 
         alt="hive" width="40" height="40"/>
     </a>
+    <a href="https://greenplum.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://docs.3forge.com/mediawiki/images/5/57/Greenplum.svg" 
+        alt="greenplum" width="50" height="50"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://docs.3forge.com/mediawiki/images/2/25/Mongodb.svg" 
+        alt="mongodb" width="50" height="50"/>
+    </a>
+    <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" 
+        alt="cassandra" width="50" height="30"/>
+    </a>
+</p>
+
+<p align="center">
     <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" 
         alt="redis" width="40" height="40"/> 
+    </a>
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" 
+        alt="rabbitmq" width="30" height="35"/> 
+    </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" 
+        alt="kafka" width="40" height="40"/> 
     </a>
 </p>
 
@@ -73,12 +96,20 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
         alt="docker" width="40" height="40"/> 
     </a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" 
+        alt="kubernetes" width="40" height="40"/> 
+    </a>
 </p>
 
 <p align="center">
     <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
         alt="linux" width="40" height="40"/> 
+    </a>
+    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" 
+        alt="airflow" width="35" height="35"/> 
     </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
