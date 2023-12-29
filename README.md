@@ -111,6 +111,10 @@
         <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" 
         alt="airflow" width="35" height="35"/> 
     </a>
+    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" 
+        alt="ansible" width="40" height="40"/> 
+    </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
      alt="nginx" width="40" height="40"/> 
