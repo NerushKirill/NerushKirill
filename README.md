@@ -4,8 +4,9 @@ A python <b><u>developer</u></b> / <b><u>data engineer</u></b> / <b><u>ETL-devel
 </h3>
 
 ---
-<h4 align=left>[About me](pages/en/about_me.md)</h4>
-<h4 align=left>[Projects_with_me](pages/en/projects_with_me.md)</h4>
+[About me](pages/en/about_me.md)
+
+[Projects_with_me](pages/en/projects_with_me.md)
 
 ---
 <h3 align="center">My main development stack:</h3>
